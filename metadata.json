@@ -1,0 +1,5 @@
+{
+  "name": "SplitSmart: Expense & Bill Splitter",
+  "description": "A mobile-friendly web application to track daily expenses and split costs with others efficiently. Features include group expense management, automated split calculations, spending insights with charts, and smart savings tips powered by Gemini API.",
+  "requestFramePermissions": []
+}
